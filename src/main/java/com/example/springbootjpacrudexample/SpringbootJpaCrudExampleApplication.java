@@ -9,6 +9,7 @@ public class SpringbootJpaCrudExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootJpaCrudExampleApplication.class, args);
 		System.err.println("springboot-jpa-crud-example started");
+		System.out.println("first commit");
 	}
 
 }
